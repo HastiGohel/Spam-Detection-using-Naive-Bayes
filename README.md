@@ -34,4 +34,5 @@ This project demonstrates how to build a Spam Detection Model using the Naive Ba
 ## 🛠️ Installation
 Clone the repository:
    ```bash
-    https://github.com/HastiGohel/spam-detection-naive-bayes.git
+   git clone https://github.com/HastiGohel/spam-detection-naive-bayes.git
+
