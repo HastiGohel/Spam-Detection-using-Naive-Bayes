@@ -17,6 +17,20 @@ This project demonstrates how to build a Spam Detection Model using the Naive Ba
 - Evaluating model performance (Accuracy, Precision, Recall, F1-score)
 - Visualization of classification results
 
+## 📈 Model Performance
+- Accuracy: ~94%
+- Precision: ~96%
+- Recall: ~79%
+- F1 Score: ~87%
+- (Performance may vary slightly depending on preprocessing steps.)
+
+## 📦 Requirements
+- Python 3.x
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
 ## 🛠️ Installation
 Clone the repository:
    ```bash
